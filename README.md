@@ -1,9 +1,10 @@
 # Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ---
-Name: Prem Kumar K
+Name: Prem Kumar K 
 
-Register No.: 212223060209
+Register No: 212223060209
+
 ---
 
 ## **Aim**

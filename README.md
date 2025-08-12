@@ -156,7 +156,8 @@ Key components:
 * **GPT (Generative Pretrained Transformer):** Autoregressive, predicts next token, excels at text generation.
 * **BERT (Bidirectional Encoder Representations from Transformers):** Reads text in both directions, optimized for understanding rather than generation.
 
-<img width="685" height="514" alt="image" src="https://github.com/user-attachments/assets/5f1fda0c-441a-4105-9638-7d72855d8bb1" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/f521d034-dfed-459e-b43f-94302b63684f" />
+
 
 ---
 

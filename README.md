@@ -87,6 +87,8 @@ Types of ML:
 * **Unsupervised Learning** – finds hidden patterns without labels.
 * **Reinforcement Learning** – learns via trial-and-error with rewards.
 
+<img width="685" height="500" alt="image" src="https://github.com/user-attachments/assets/0a40845e-235f-4887-944b-74dd6ecdef8a" />
+
 ---
 
 ### **2. Overview of Generative AI**

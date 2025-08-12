@@ -119,7 +119,9 @@ Generative AI focuses on producing new data that mirrors the characteristics of 
 ### **3. Categories of Generative Models**
 
 **3.1 GANs:** Use a generator to create outputs and a discriminator to judge authenticity. Popular in deepfake creation and image super-resolution.
+
 **3.2 VAEs:** Encode data into a latent space and decode to generate new samples. Useful for anomaly detection and design simulations.
+
 **3.3 Diffusion Models:** Gradually denoise random noise into structured data, producing photorealistic images (e.g., Stable Diffusion).
 
 ---

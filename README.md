@@ -165,6 +165,9 @@ Key components:
 3. **Pretraining** – learning general patterns of language.
 4. **Fine-tuning** – adapting to specific tasks or domains.
 
+<img width="685" height="514" alt="image" src="https://github.com/user-attachments/assets/b2c299eb-4e78-4e02-a5e1-9dd25b33f88f" />
+
+
 ---
 
 ### **8. Applications**

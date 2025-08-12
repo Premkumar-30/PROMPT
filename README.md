@@ -161,9 +161,9 @@ Key components:
 ### **7. Training Pipelines**
 
 1. **Tokenization** – converting text into model-readable tokens.
-2. **Attention – focus on relevant parts of the input sequence.
+2. **Attention** – focus on relevant parts of the input sequence.
 4. **Pretraining** – learning general patterns of language.
-5. **Transfer Learning – applying knowledge from one task to another.
+5. **Transfer Learning** – applying knowledge from one task to another.
 <img width="685" height="514" alt="image" src="https://github.com/user-attachments/assets/b2c299eb-4e78-4e02-a5e1-9dd25b33f88f" />
 
 

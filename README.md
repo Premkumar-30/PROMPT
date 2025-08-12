@@ -74,26 +74,6 @@ Produce a technical and educational report covering:
 
 Generative Artificial Intelligence enables machines to create original content by learning data patterns. With the advent of Large Language Models (LLMs) like GPT, Claude, and LLaMA, AI has become capable of producing coherent, context-aware text, solving reasoning tasks, and even generating code. This report explains the basics of Generative AI, details the Transformer architecture that powers most modern LLMs, explores common use cases, and analyzes how scaling improves their performance while raising computational and ethical challenges.
 
----
-
-### **Table of Contents**
-
-1. Introduction to AI and Machine Learning
-2. Overview of Generative AI
-3. Categories of Generative Models
-    3.1 Generative Adversarial Networks (GANs)
-    3.2 Variational Autoencoders (VAEs)
-    3.3 Diffusion Models
-4. Large Language Models (LLMs) – Concept and Examples
-5. Transformer Architecture Explained
-6. GPT vs. BERT – Key Differences
-7. Training Pipelines and Data Requirements
-8. Applications Across Domains
-9. Challenges and Ethical Concerns
-10. Scaling Laws and Their Effects
-11. Future Outlook
-12. Conclusion
-13. References
 
 ---
 
@@ -128,6 +108,8 @@ Generative AI focuses on producing new data that mirrors the characteristics of 
 **3.2 VAEs:** Encode data into a latent space and decode to generate new samples. Useful for anomaly detection and design simulations.
 
 **3.3 Diffusion Models:** Gradually denoise random noise into structured data, producing photorealistic images (e.g., Stable Diffusion).
+
+<img width="685" height="500" alt="image" src="https://github.com/user-attachments/assets/2b8e66df-b5ba-4310-b417-dfe1d05877db" />
 
 ---
 
